@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello , my name is Ming-Hung. I currently work at the Department of Information Engineering and Computer Science, Feng Chia University, as an assistant professor.  I also serve in the Information and Communication Security Research Center, Feng Chia University, as a deputy director.
+Hello , my name is Ming-Hung. I currently work at the [Department of Information Engineering and Computer Science, Feng Chia University](https://www.iecs.fcu.edu.tw/en/), as an assistant professor.  I also serve in the Information and Communication Security Research Center, Feng Chia University, as a deputy director. 
 
-I received my Ph.D. in the Department of Electrical Engineering at National Taiwan University in 2017. Before my Ph.D. study, I obtained the M.S. degree in Communication Engineering in 2010 and the B.S. degree in Computer Science in 2008, both from National Tsing Hua University. 
+I received my Ph.D. in the Department of Electrical Engineering at [National Taiwan University](https://www.ntu.edu.tw/english/index.html) in 2017. Before my Ph.D. study, I obtained the M.S. degree in Communication Engineering in 2010 and the B.S. degree in Computer Science in 2008, both from [National Tsing Hua University](http://nthu-en.web.nthu.edu.tw/). 
 
 I focus on addressing security issues about online information, Internet behaviors, and network infrastructures. I have worked on the following three major topics: 
 
